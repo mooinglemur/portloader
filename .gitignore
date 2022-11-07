@@ -1,0 +1,13 @@
+*.nes
+*.o
+*.sym
+*-map.txt
+OLD/
+.swp
+*.dbg
+*.PRG
+*.NES
+*.PAT
+*.img
+mk*.sh
+*run*sh
